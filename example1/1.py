@@ -29,7 +29,7 @@ while True:
         print(show_message)
 
         # ポップアップ
-        sg.Popup(show_message)
+        sg.popup(show_message)
 
 # セクション 4 - ウィンドウの破棄と終了
 window.close()
