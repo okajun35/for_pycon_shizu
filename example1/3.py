@@ -6,7 +6,8 @@ layout = [[sg.Text('Please click the button', key='-TEXT-')],
           [sg.Submit(button_text='実行ボタン')]]
 
 # ウィンサイズはsizeに(縦の大きさ,横の大きさ)で記載
-window = sg.Window(title='show input text', size=(200, 100)).Layout(layout)
+# ただし基本は適切にウィンドウサイズをとるのと、大きさをドラッグで変えられるのでsizeを指定する必要がない
+window = sg.Window('show input text', layout, size=(200, 100))
 
 # イベントループ
 while True:
