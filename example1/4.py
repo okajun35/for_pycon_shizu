@@ -19,7 +19,7 @@ layout = [
     [sg.Text('住所を入れてね', size=(15, 1)), frame1],  # frame1のレイアウトを入れ子にして入れている
     [sg.Text('電話番号', size=(15, 1)), sg.InputText(
         default_text='xxx-xxx-xxx', key='-PHONE-NUM-')],
-    [sg.Button('実行ボタン')]
+    [sg.Submit('実行ボタン')]
 ]
 
 # セクション 2 - ウィンドウの生成
