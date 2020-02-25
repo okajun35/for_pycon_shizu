@@ -75,6 +75,9 @@ Pythonファイルを実行した場合
 ### 公式のサンプルについて
 スライドの中で紹介したものは公式の以下のサンプルになります。
 
+#### matplotlibとの連携
+https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Matplotlib.py
+
 #### グラフのソートアニメーション
 https://pysimplegui.trinket.io/demo-programs#/graph-element/visualizing-sorts 
 
