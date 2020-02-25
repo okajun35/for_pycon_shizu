@@ -30,6 +30,9 @@ tkinterを使ったサンプル。
 02_tk_sample.pyをPySimpleGUIを使って書き直したサンプル。
 
 - 実行結果
+
+![sample1](https://github.com/okajun35/for_pycon_shizu/blob/for_screenshot/example/sample_png/01_basic/1.png)
+
 ### 04_graph_sample.py
 公式のグラフのサンプル（ https://pysimplegui.trinket.io/demo-programs　のGraph Element）を一つにまとめてボタンで切り替えるようにしたもの
 
