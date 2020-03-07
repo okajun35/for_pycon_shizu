@@ -1,6 +1,8 @@
 # for_pycon_shizu
 [Pythonでデスクトップアプリを簡単に作る方法](https://shizuoka.pycon.jp/session/dario_okazaki/)のcfpよう
 
+当日の[スライド](https://speakerdeck.com/okajun35/pythondedesukutotupuapuriwojian-dan-nizuo-rufang-fa)
+
 ## example の中身
 examle配下にはデモで使ったファイルがあります。
 試す際は`99_Python_Script_Launcher.py`を実行するとランチャーが立ち上がるので便利かと思います。
@@ -60,6 +62,14 @@ tkinterを使ったサンプル。
 
 実行結果
 ![vba_result](https://github.com/okajun35/for_pycon_shizu/blob/for_screenshot/example/sample_png/03_vba/VBA_result.jpg)
+
+### 08_asci_img.py
+公式の[Demo_Img_Viewer](https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Img_Viewer.py)を参考に[アスキーアートを自動生成する 
+](https://tat-pytone.hatenablog.com/entry/2020/02/26/202205)にGUIをつけたもの
+
+実行結果
+![asci_result](https://github.com/okajun35/for_pycon_shizu/blob/for_screenshot/example/sample_png/04_asci/asci_example.png)
+
 
 ### 99_Python_Script_Launcher.py
 公式の[Demo_Script_Launcher.py](https://github.com/PySimpleGUI/PySimpleGUI/blob/master/DemoPrograms/Demo_Script_Launcher.py)を元にPythonファイルを実行、Vscodeで開くようにしたもの
