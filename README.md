@@ -11,7 +11,8 @@ examle配下にはデモで使ったファイルがあります。
 - 02_tk_sample.py
 - 03_basic.py
 - 05_graph_sample.py
-- 08_vba_excell_join.py
+- 07_vba_excell_join.py
+- 08_asci_img.py
 - 99_Python_Script_Launcher.py
 
 ### 01_tk_sample.py
